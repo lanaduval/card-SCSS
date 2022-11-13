@@ -1,0 +1,15 @@
+$fontColor: grey;
+$fontStyle: 'Roboto', sans-serif;
+$font-size : 15rem;
+
+div img {
+    max-width :15rem;
+}
+p, h1 {
+    color : $fontColor;
+    font-family : $fontStyle;
+}
+.card p, h1 {
+padding-left: 1rem;
+}
+
